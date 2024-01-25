@@ -1,0 +1,10 @@
+:root{
+  --font-dm-sans: "DM Sans", sans-serif;
+  --font-color-dark-text: #fefefe;
+  --font-color-dark-button: #b3b3b3;
+  --backgroud-color-dark: #000;
+  --card-color-dark: #121212;
+  --card-highlight-color-dark:#242424;
+  --bg-icon-dark:#131313;
+  --bg-arrow-color:rgba(0,0,0,7);
+}
