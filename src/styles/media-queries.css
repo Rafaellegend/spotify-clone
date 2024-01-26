@@ -1,0 +1,6 @@
+@media screen and (max-width: 1015px) {
+  .playlist .playlist__list {
+    grid-column: auto;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  }
+}

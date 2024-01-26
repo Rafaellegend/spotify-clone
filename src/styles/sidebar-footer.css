@@ -1,7 +1,5 @@
 body {
   background-color: var(--backgroud-color-dark);
-  background: rgb(0, 102, 57);
-  background: linear-gradient(137deg, rgba(0, 102, 57, 1) 0%, rgba(0, 0, 0, 1) 43%);
   font-family: var(--font-dm-sans);
 }
 
